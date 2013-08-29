@@ -5,7 +5,7 @@ This is a USB slingshot toy dedicated to play Angry Bird Game.
 This is a USB slingshot toy, using arduino leonardo and Pro mini (v3.3).
 adjust max mouse move steps
 
-Hardware Required
+Hardware Requirement
 =========
 
 1 Arduino Leonardo Board
@@ -20,8 +20,11 @@ Hardware Required
 
 Inspired by
 =========
+
 mbed USB Slingshot! - YouTube
 www.youtube.com/watch?v=a97bWORY4Og‎
+
+Notice
 =======
 This is currently FINISHED! Some parameters should be adjusted.
 
@@ -33,7 +36,8 @@ http://mbed.org/cookbook/Slingshot
 http://maniacbug.GITHUB.com/RF24
 HX711 lib by <phk@FreeBSD.ORG>
 Thanks!
->>>>>>> adjust max mouse move steps
+
+adjust max mouse move steps
 
 License
 =========
