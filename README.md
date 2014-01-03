@@ -26,7 +26,7 @@ www.youtube.com/watch?v=a97bWORY4Og‎
 
 Notice
 =======
-This is currently FINISHED! Some parameters should be adjusted.
+This is currently finished, though some parameters may meed to be adjusted.
 
 Inspired by mbed USB Slingshot! - YouTube
 www.youtube.com/watch?v=a97bWORY4Og
