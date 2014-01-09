@@ -1,5 +1,9 @@
 Slingshot
 =========
+Notice
+=======
+This project has been renamed as AngrgShot and no longer developed. See : https://github.com/DashSlim/Angryshot.git
+
 This is a USB slingshot toy dedicated to play Angry Bird Game.
 
 This is a USB slingshot toy, using arduino leonardo and Pro mini (v3.3).
@@ -24,9 +28,6 @@ Inspired by
 mbed USB Slingshot! - YouTube
 www.youtube.com/watch?v=a97bWORY4Og‎
 
-Notice
-=======
-This is currently finished, though some parameters may meed to be adjusted.
 
 Inspired by mbed USB Slingshot! - YouTube
 www.youtube.com/watch?v=a97bWORY4Og
